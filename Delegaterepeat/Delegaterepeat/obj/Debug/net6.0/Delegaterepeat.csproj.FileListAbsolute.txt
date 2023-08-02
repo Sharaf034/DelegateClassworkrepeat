@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\bin\Debug\net6.0\Delegaterepeat.exe
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\bin\Debug\net6.0\Delegaterepeat.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\bin\Debug\net6.0\Delegaterepeat.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\bin\Debug\net6.0\Delegaterepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\bin\Debug\net6.0\Delegaterepeat.pdb
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\refint\Delegaterepeat.dll
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.pdb
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\Delegaterepeat.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\DelegateClassrepeat\classwork\Delegaterepeat\Delegaterepeat\obj\Debug\net6.0\ref\Delegaterepeat.dll
